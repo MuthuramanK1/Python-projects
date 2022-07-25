@@ -6,7 +6,7 @@ from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 # this is the module that works wverything out
-# second change with vscode
+
 menu = Menu()
 coffeemaker = CoffeeMaker()
 moneymachine = MoneyMachine()
